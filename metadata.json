@@ -2,7 +2,7 @@
     "name": "Diyici",
     "symbol": "DYC",
     "description": "Description of the token.",
-    "image": "https://github.com/zuoyanbijin/my-token-data/blob/main/image.jpg",
+    "image": "https://raw.githubusercontent.com/zuoyanbijin/my-token-data/main/image.jpg",
     "attributes": [
         {
             "trait_type": "Item",
