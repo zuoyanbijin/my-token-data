@@ -1,8 +1,8 @@
 {
-    "name": "Diyici",
-    "symbol": "DYC",
+    "name": "lou",
+    "symbol": "lou",
     "description": "Description of the token.",
-    "image": "https://raw.githubusercontent.com/zuoyanbijin/my-token-data/main/image.jpg",
+    "image": "https://raw.githubusercontent.com/zuoyanbijin/my-token-data/main/image.png",
     "attributes": [
         {
             "trait_type": "Item",
