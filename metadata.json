@@ -1,0 +1,12 @@
+{
+    "name": "Diyici",
+    "symbol": "DYC",
+    "description": "Description of the token.",
+    "image": "https://github.com/zuoyanbijin/my-token-data/new/main/image.png",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "Developer Portal"
+        }
+    ]
+}
