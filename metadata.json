@@ -1,8 +1,8 @@
 {
-    "name": "JUJU",
-    "symbol": "JUJU",
+    "name": "BUST",
+    "symbol": "BUST",
     "description": "Description of the token.",
-    "image": "https://raw.githubusercontent.com/zuoyanbijin/my-token-data/main/image2.png",
+    "image": "https://raw.githubusercontent.com/zuoyanbijin/my-token-data/main/image3.png",
     "attributes": [
         {
             "trait_type": "Item",
